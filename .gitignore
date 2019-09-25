@@ -1,4 +1,5 @@
 .DS_Store
 Temp
 Library/
-Assets/
+Assets/ThirdParty/**
+Assets/Videos/**
